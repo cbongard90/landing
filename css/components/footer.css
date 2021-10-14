@@ -1,0 +1,21 @@
+footer{
+  background-color: hsl(0, 1%, 17%);
+  color: aliceblue;
+  height: 20vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer li{
+  list-style: none;
+  display: inline;
+  margin-right: 20px;
+}
+footer p{
+  margin-right: 20px;
+  color: antiquewhite;
+}
+footer i{
+  font-size: 2.5em;
+  color: hsl(153, 76%, 49%);
+}
